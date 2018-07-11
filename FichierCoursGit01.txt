@@ -1,1 +1,3 @@
 Voici les commandes que l'on peut écrire
+
+* ```git touch``` crée un nouveau fichier
